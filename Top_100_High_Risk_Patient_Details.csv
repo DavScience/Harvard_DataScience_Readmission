@@ -1,0 +1,101 @@
+"id","age","race","gender","diabetesMed","readmitted","metformin","glyburide","insulin","discharge_disposition_id","admission_source_id","payer_code","medical_specialty","number_inpatient"
+"ecf4c1dc-f5e1-4b12-83a0-610bb807638d","[60-70]","Caucasian","Female","Yes",TRUE,"No","No","No","Discharged/transferred to another short term hospital","Emergency Room","MC","Pulmonology",1
+"f4df3153-6f4b-4eb8-8923-a90730739d24","[50-60]","Caucasian","Male","Yes",FALSE,"No","No","Down","Discharged/transferred to another short term hospital","","MC","?",1
+"6860e634-e7c7-4f82-8850-8f7f24a76d05","[80-90]","AfricanAmerican","Male","Yes",TRUE,"Steady","No","No","Discharged/transferred to home with home health service","Emergency Room","?","InternalMedicine",7
+"c1fc0941-e92c-4c1b-bd15-986dbafc539e","[40-50]","Caucasian","Male","Yes",FALSE,"No","No","No","Discharged to home","Physician Referral","MD","?",3
+"b027d0d2-9cfb-474a-be84-441a39d157f0","[90-100]","Caucasian","Female","Yes",FALSE,"No","Steady","No","Discharged/transferred to SNF","Emergency Room","MC","?",1
+"05e99797-2b21-437c-bff5-2e2baee27f1d","[50-60]","Caucasian","Female","No",FALSE,"No","No","No","Discharged to home","","?","?",6
+"88b0a9e2-ad65-4460-b798-5a9267a80398","[70-80]","Caucasian","Female","Yes",FALSE,"No","No","Steady","Discharged/transferred to SNF","Emergency Room","MC","?",2
+"98d13a5a-7d4c-492f-9642-dc183e00563c","[60-70]","Caucasian","Male","Yes",TRUE,"No","No","No","Discharged to home","Emergency Room","?","?",3
+"e3ca9637-269c-4bf4-b003-f93182ae56e6","[80-90]","AfricanAmerican","Female","Yes",FALSE,"No","Steady","Steady","Discharged to home","Emergency Room","MC","Family/GeneralPractice",3
+"39db9130-cc5d-4d27-aa30-00aaedf37cc9","[60-70]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged/transferred to home with home health service","Emergency Room","MD","Emergency/Trauma",1
+"8cecdb26-747d-4bdc-98f6-5fe4b720a9d2","[50-60]","Caucasian","Female","Yes",FALSE,"No","No","Steady","Discharged/transferred to SNF","Emergency Room","MC","?",0
+"761aa2eb-2578-4c4f-8149-ba5c724818b7","[50-60]","AfricanAmerican","Male","Yes",FALSE,"No","No","Up","Discharged to home","Emergency Room","SP","InternalMedicine",2
+"a25c5401-b155-41f0-acee-ff4c93cd6fc1","[40-50]","Caucasian","Female","Yes",TRUE,"No","No","Steady","Discharged/transferred to home with home health service","Emergency Room","MD","InternalMedicine",1
+"ca500c8f-a554-474c-ae30-bd83cba8c498","[70-80]","Caucasian","Male","Yes",TRUE,"No","No","Down","Discharged to home","Clinic Referral","?","?",3
+"0ebd4089-f63f-4d0f-9a77-4095522301cd","[50-60]","Caucasian","Male","Yes",TRUE,"No","No","No","Discharged to home","Emergency Room","MC","Emergency/Trauma",3
+"007f0051-005c-4bf8-8928-580bbb12b65c","[50-60]","?","Male","Yes",TRUE,"No","No","No","Discharged to home","Emergency Room","?","InternalMedicine",4
+"567cf7d2-14ea-441f-8232-348ed9910cff","[40-50]","Caucasian","Female","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","?","Endocrinology",6
+"5edb5cd7-73a2-495c-b86c-a4646b911cb6","[60-70]","AfricanAmerican","Male","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","?","InternalMedicine",4
+"19a61815-afb9-41a7-9507-b93aaf7c683f","[60-70]","Caucasian","Female","Yes",TRUE,"No","No","No","Discharged/transferred to home with home health service","","?","?",2
+"15c90c73-e66b-4f09-bcdc-5e582aea9a1f","[60-70]","Caucasian","Female","Yes",FALSE,"Steady","No","No","Discharged/transferred to SNF","Emergency Room","MC","Emergency/Trauma",2
+"40cf95ef-8be9-4aa2-acf5-ffd346bf7cc0","[40-50]","Caucasian","Male","Yes",FALSE,"Steady","No","No","Discharged to home","Physician Referral","SP","Cardiology",5
+"b3b55069-af20-4015-89ca-3ed54d19e279","[50-60]","Caucasian","Female","Yes",TRUE,"No","No","Up","Discharged to home","","?","?",8
+"2f85d17a-ded7-4508-9909-a55e1ea81fb9","[70-80]","Caucasian","Female","Yes",TRUE,"No","No","Up","Discharged to home","Emergency Room","?","InternalMedicine",5
+"87767693-4f2b-4db6-af39-7b3b4df3aeb9","[70-80]","AfricanAmerican","Male","Yes",TRUE,"No","No","Steady","Discharged/transferred to home with home health service","Physician Referral","?","Pathology",1
+"dd719381-deab-490f-a840-5be55aaad873","[30-40]","Caucasian","Female","No",TRUE,"No","No","No","Discharged to home","Emergency Room","?","Nephrology",7
+"d8746b05-47eb-430a-a317-4cb3eed5578d","[50-60]","Caucasian","Female","Yes",TRUE,"No","No","Up","Discharged to home","Emergency Room","?","InternalMedicine",2
+"73b7964f-c512-4f60-980b-0d9fedcf6259","[60-70]","Caucasian","Male","Yes",TRUE,"No","Steady","Steady","Discharged/transferred to a long term care hospital.","","?","?",4
+"dcdf5126-dee1-40a7-ae81-74c3a62b1c2e","[60-70]","Caucasian","Male","Yes",TRUE,"No","No","Steady","Discharged to home","Physician Referral","MC","Gastroenterology",2
+"37b542e0-bbc7-47d6-b1d7-11be0e3bf735","[50-60]","AfricanAmerican","Male","No",FALSE,"No","No","No","Discharged to home","Emergency Room","?","?",3
+"9bf89890-e274-4937-b371-ab4d50b21731","[80-90]","Caucasian","Male","Yes",TRUE,"Steady","No","No","Discharged/transferred to SNF","Emergency Room","MC","?",2
+"e11ad534-6b2c-4844-a68c-7285321e13bf","[80-90]","Caucasian","Female","Yes",TRUE,"No","No","Up","Discharged/transferred to SNF","Emergency Room","MC","InternalMedicine",2
+"b00ca2db-f0a7-4cd1-800a-e4332f5f9580","[50-60]","Caucasian","Male","Yes",TRUE,"Steady","No","No","Discharged to home","Emergency Room","?","Family/GeneralPractice",5
+"7cfe1916-8297-49d2-832d-91c61964d3d2","[60-70]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged/transferred to SNF","Emergency Room","MC","?",4
+"3362d756-8e31-4555-8f8d-fffddda38e3b","[70-80]","Caucasian","Female","No",FALSE,"No","No","No","Discharged/transferred to home with home health service","Emergency Room","?","?",2
+"8de44a89-f756-4a03-bc06-0d8fcec59b5c","[50-60]","Caucasian","Male","Yes",TRUE,"No","No","Steady","Discharged/transferred to home with home health service","Physician Referral","?","?",3
+"af0c4ed7-ab8c-4942-a095-de27008446db","[50-60]","AfricanAmerican","Female","Yes",FALSE,"No","No","Down","Discharged to home","Clinic Referral","?","?",3
+"dac606c8-83bb-4a9b-b590-3ee42feb7a91","[60-70]","Caucasian","Male","No",FALSE,"No","No","No","Discharged/transferred to SNF","Transfer from a Skilled Nursing Facility (SNF)","MC","?",4
+"d262495c-5dc1-4db0-b43c-06a661238be8","[50-60]","Caucasian","Male","Yes",FALSE,"Steady","No","Down","Discharged/transferred to home with home health service","Emergency Room","MD","?",1
+"e5ce8e73-d4c2-44e2-bbe0-caefa3459ca3","[80-90]","Caucasian","Male","Yes",TRUE,"No","No","Down","Discharged/transferred to home with home health service","Emergency Room","MC","?",1
+"1e095100-95c2-4a4f-92a8-9b0ffb15fb9a","[60-70]","Caucasian","Male","No",FALSE,"No","No","No","Discharged/transferred to home with home health service","Emergency Room","?","?",2
+"314d6933-1a4d-420e-aec5-13d73db6e439","[50-60]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged to home","Emergency Room","DM","InternalMedicine",3
+"3515ae20-6bc9-4813-a2ec-b7fcc3d0d623","[60-70]","Caucasian","Male","Yes",FALSE,"No","No","Down","Discharged/transferred to SNF","Emergency Room","DM","?",1
+"fb2329f4-7d02-497c-b9d2-dacdbc0ee374","[30-40]","AfricanAmerican","Male","Yes",TRUE,"Steady","No","No","Discharged to home","Emergency Room","HM","?",2
+"5956daa7-dffe-4720-962f-487016786f92","[90-100]","Caucasian","Female","Yes",FALSE,"No","No","Up","Discharged/transferred to another  type of inpatient care institution","Emergency Room","MD","Emergency/Trauma",2
+"6127135e-6ede-4fe3-b62f-bb5cc69bf08f","[70-80]","Caucasian","Male","Yes",FALSE,"No","Up","No","Discharged to home","Emergency Room","MC","?",1
+"dd149796-38c0-4eac-a70a-9a090fe01291","[80-90]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged/transferred to SNF","Emergency Room","UN","?",3
+"aa296a86-f2ed-4468-b7a0-6a5a848ccad8","[40-50]","Caucasian","Female","Yes",FALSE,"No","No","Down","Discharged to home","Emergency Room","?","?",2
+"5bf1d3f7-2f41-426a-8707-5cfb0571d2bc","[50-60]","Caucasian","Male","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","?","InternalMedicine",5
+"d71f6f31-ed8a-4f76-903d-ca1967932861","[50-60]","Caucasian","Male","Yes",FALSE,"Steady","No","Steady","Discharged to home","Physician Referral","?","Oncology",4
+"b647825b-11b4-40e2-8878-0f49493fcff4","[50-60]","Caucasian","Female","Yes",FALSE,"No","No","Steady","Discharged to home","Emergency Room","MC","?",3
+"1263ae69-d660-4b95-98c7-f8ab0c97c27f","[60-70]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged/transferred to SNF","Emergency Room","MC","Emergency/Trauma",2
+"8f59cf57-0751-4bc1-a0eb-43de5f1d1141","[80-90]","Caucasian","Female","No",TRUE,"No","No","No","Discharged to home","Emergency Room","MC","Pulmonology",4
+"2c2b5bad-e049-4347-bc80-e58fe4dc60d3","[70-80]","Caucasian","Male","Yes",TRUE,"No","No","Down","Discharged/transferred to home with home health service","Emergency Room","?","?",2
+"bee6612e-3ebc-454b-bd9a-99dc68ee3e7b","[40-50]","AfricanAmerican","Female","Yes",FALSE,"Steady","No","Up","Discharged to home","Emergency Room","MD","Cardiology",3
+"be3bcbac-bbd1-4e4c-8e25-c89a33cf1f01","[60-70]","Caucasian","Male","Yes",TRUE,"No","No","Steady","Discharged to home","Physician Referral","?","Family/GeneralPractice",5
+"2a1d74ca-094b-49c9-bcce-5fc42222c49b","[60-70]","Caucasian","Female","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","?","?",4
+"e5cf4cd6-946b-4d1b-9b95-61a37728b28e","[80-90]","Caucasian","Male","Yes",FALSE,"Steady","Up","No","Discharged/transferred to home with home health service","Emergency Room","?","?",1
+"4dec7dd1-84fe-4ef6-90fa-20b9efec6d95","[40-50]","Caucasian","Male","Yes",FALSE,"No","No","Down","Discharged to home","Emergency Room","?","Psychiatry",3
+"8cf0e433-e5f6-4b89-b3d9-fe894ee5f013","[50-60]","AfricanAmerican","Female","No",TRUE,"No","No","No","Discharged to home","Physician Referral","?","InternalMedicine",7
+"cdf52e34-b206-4e5a-aa55-d207e6785a42","[40-50]","Caucasian","Female","Yes",TRUE,"No","No","No","Discharged to home","Emergency Room","?","?",3
+"27fb3ea8-378e-4359-b397-c47cebf52423","[50-60]","Caucasian","Male","Yes",TRUE,"No","No","Up","Discharged/transferred to SNF","Physician Referral","MC","?",0
+"72c1a6d7-ffcd-4f67-b70e-ba4068fa7675","[70-80]","Caucasian","Male","Yes",TRUE,"No","No","No","Discharged/transferred to home with home health service","Physician Referral","?","InternalMedicine",5
+"45e46ef6-3984-4564-a0ca-7a90b6aaa9c0","[60-70]","Caucasian","Male","Yes",TRUE,"Steady","No","No","Discharged/transferred to SNF","Physician Referral","?","Surgery-Vascular",3
+"b20a495e-6b97-496b-8cc8-4df44c667841","[40-50]","Caucasian","Female","Yes",FALSE,"No","No","Steady","Discharged/transferred to home with home health service","Emergency Room","?","?",2
+"f471c143-7072-4089-9cb0-0bbdca3cc364","[80-90]","Caucasian","Male","No",FALSE,"No","No","No","Discharged/transferred to another rehab fac including rehab units of a hospital.","Emergency Room","?","?",2
+"1e3ab77d-e2af-4407-acf2-091f3976972c","[50-60]","AfricanAmerican","Female","Yes",TRUE,"No","No","Up","Discharged to home","Emergency Room","?","Surgery-General",2
+"f9aa06c7-3460-42e5-82b2-bdd3a233bb7a","[70-80]","Caucasian","Female","Yes",FALSE,"No","No","Up","Discharged/transferred to SNF","Physician Referral","MC","?",0
+"ae45c3aa-82e9-46d2-a3e6-1fe5d729656f","[60-70]","Caucasian","Male","Yes",TRUE,"No","No","No","Discharged to home","Emergency Room","MC","InternalMedicine",2
+"987013a0-1e71-4a0d-bc89-965cae623d05","[70-80]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged/transferred to SNF","Emergency Room","MC","?",2
+"f05863c8-6bea-4f5a-8f91-e1b85a830183","[60-70]","Caucasian","Male","Yes",TRUE,"No","No","No","Discharged to home","","?","?",2
+"8ab6a332-2fb2-4673-99f2-b61800b616e8","[50-60]","Asian","Male","No",TRUE,"No","No","No","Discharged to home","Emergency Room","UN","Emergency/Trauma",6
+"fa509d75-4f25-41fb-86e0-755124162d0d","[60-70]","Caucasian","Male","No",TRUE,"No","No","No","Discharged/transferred to SNF","Emergency Room","MC","?",3
+"7cfc0b2f-5f88-4976-9389-34732571f02e","[70-80]","Caucasian","Female","Yes",FALSE,"Down","Steady","Up","Discharged/transferred to SNF","","MC","Hematology/Oncology",0
+"b3096bb9-852e-4b4f-8417-19a1249244f2","[70-80]","AfricanAmerican","Female","Yes",FALSE,"No","No","Up","Discharged/transferred to home with home health service","Emergency Room","MC","Family/GeneralPractice",2
+"086ee001-7b69-4ae2-9432-5f487f908e43","[50-60]","Caucasian","Male","Yes",TRUE,"No","No","Up","Discharged/transferred to another rehab fac including rehab units of a hospital.","Physician Referral","UN","?",3
+"5d77e38e-00fe-479d-b0fb-5aa12b44b880","[70-80]","Caucasian","Male","Yes",TRUE,"No","No","No","Discharged/transferred to SNF","Emergency Room","MC","?",2
+"b01599e9-3dd6-430a-9aa6-99d5089ffd4d","[80-90]","Caucasian","Female","Yes",TRUE,"Down","No","No","Discharged/transferred to home with home health service","Physician Referral","MC","?",2
+"d92acf9a-8eaa-4068-98ef-231837d38933","[20-30]","Caucasian","Female","No",FALSE,"No","No","No","Discharged/transferred to home with home health service","HMO Referral","?","?",3
+"60f37a78-9245-44c2-be49-f00f30ee37ab","[80-90]","Caucasian","Female","No",TRUE,"No","No","No","Discharged/transferred to home with home health service","Physician Referral","?","Orthopedics-Reconstructive",3
+"3939e890-efb2-4f93-be33-dfafe5d03888","[90-100]","Caucasian","Male","Yes",FALSE,"No","Steady","No","Discharged/transferred to another short term hospital","Emergency Room","MC","?",1
+"1c398e8f-40bb-42a7-87b0-8d614fea2d20","[80-90]","Caucasian","Male","No",TRUE,"No","No","No","Discharged/transferred to home with home health service","Emergency Room","MC","?",2
+"f37e7c03-6834-4fd4-b06a-d809643141f8","[60-70]","AfricanAmerican","Male","Yes",TRUE,"Steady","No","Steady","Discharged to home","Emergency Room","?","InternalMedicine",3
+"80bda179-82cf-4ebb-a86f-f0e26f4c6e03","[80-90]","Caucasian","Female","Yes",TRUE,"No","No","Steady","Discharged/transferred to SNF","Transfer from a Skilled Nursing Facility (SNF)","?","?",4
+"7d6b409d-4254-4d9a-a276-acffcad78c93","[70-80]","Caucasian","Female","Yes",FALSE,"Steady","Steady","No","Discharged to home","Physician Referral","?","Pathology",1
+"df774033-faad-4ff6-98af-3001fe3e9962","[70-80]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged to home","","?","Family/GeneralPractice",5
+"1afb6f96-f410-4263-b8ec-2c75c7b371cc","[50-60]","AfricanAmerican","Male","Yes",TRUE,"No","No","Steady","Discharged to home","Clinic Referral","?","?",6
+"103f5d1e-1fc6-4560-841e-d51f821570bb","[40-50]","AfricanAmerican","Male","No",TRUE,"No","No","No","Left AMA","Emergency Room","?","?",6
+"9bfdc49e-99f1-4966-a6f4-5f9e15f58144","[70-80]","Caucasian","Female","No",TRUE,"No","No","No","Discharged/transferred to home with home health service","Emergency Room","MC","?",1
+"c26f173f-d857-4ab0-bea7-2c827d4d3eab","[60-70]","Caucasian","Female","No",FALSE,"No","No","No","Discharged/transferred to home with home health service","Physician Referral","UN","Nephrology",4
+"6fe81e61-c181-4e5c-8f68-6996604a839a","[70-80]","Caucasian","Female","Yes",TRUE,"No","No","No","Discharged to home","Emergency Room","?","?",3
+"eeeb096b-9c24-40ea-a783-56c9994205ed","[60-70]","Caucasian","Female","Yes",TRUE,"Steady","No","No","Discharged/transferred to home with home health service","Physician Referral","CP","Radiologist",1
+"00283762-4a96-4ff9-9f72-237e35e1068b","[70-80]","AfricanAmerican","Female","No",TRUE,"No","No","No","Discharged/transferred to SNF","Emergency Room","MC","InternalMedicine",3
+"6d6fe828-fa9b-4df9-9b9b-ef6e42e558ea","[60-70]","AfricanAmerican","Female","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","MC","?",2
+"a1ef5535-44df-4181-95d4-e3a06f8118ff","[70-80]","Caucasian","Female","No",TRUE,"No","No","No","Discharged/transferred to home with home health service","Physician Referral","MC","?",2
+"7a013c77-1f1c-4f73-9b03-b3d77265634c","[60-70]","Caucasian","Male","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","?","?",6
+"6c5f6bd0-0eb5-4f89-8dc2-7c5177c98988","[50-60]","AfricanAmerican","Female","Yes",TRUE,"No","No","Steady","Discharged to home","Emergency Room","?","?",5
+"4cb3974a-a056-4912-8380-c2b1fdc4b68d","[70-80]","Caucasian","Male","Yes",TRUE,"No","Steady","Steady","Discharged/transferred to home with home health service","Emergency Room","MC","?",2
+"3cc47518-f601-4f09-9ae3-180efd74c3c5","[70-80]","Caucasian","Female","No",TRUE,"No","No","No","Discharged/transferred to SNF","Emergency Room","MC","InternalMedicine",3
+"9b7f4a2c-c9c0-44f5-80fa-85f70c0d23cf","[40-50]","Caucasian","Male","No",TRUE,"No","No","No","Discharged/transferred to home with home health service","","?","Family/GeneralPractice",2
+"04f5d55c-a748-4f23-b61d-1e2201fdc567","[50-60]","Caucasian","Female","Yes",TRUE,"No","No","Down","Discharged to home","Emergency Room","MC","Nephrology",5
