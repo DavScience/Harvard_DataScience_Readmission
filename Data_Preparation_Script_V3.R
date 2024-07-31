@@ -341,22 +341,6 @@ top_100_ids <- head(results_df, 100)
 print(top_100_ids)
 write.csv(top_100_ids, "Top_100_High_Risk_Patients.csv", row.names = FALSE)
 
-#############################################################################
-####     Take ID from top_100_ids Dataframe and match it against     ########
-####     important variables from df/joinData                        ########
-
-# Extract the specific 'id' values
-top_100_id_values <- top_100_ids$id
-
-# Extract the specified variables from 'joinData' for the top 100 ids
-top_100_details <- joinData %>%
-  filter(id %in% top_100_id_values) %>%
-  select(id, age, race, gender, diabetesMed, readmitted, metformin, glyburide, insulin,
-         discharge_disposition_id, admission_source_id, payer_code, medical_specialty, number_inpatient)
-
-# Print and save the 'top_100_details' dataframe
-print(top_100_details)
-write.csv(top_100_details, "Top_100_High_Risk_Patient_Details.csv", row.names = FALSE)
 
 # end
 
